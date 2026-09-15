@@ -7,7 +7,7 @@
     "alpinejs": "^3.13.8",
     "daisyui": "^5.0.47",
     "esbuild": "^0.25.5",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.28",
     "tailwindcss": "^4.1.11"
   },
   "dependencies": {
